@@ -5878,6 +5878,19 @@ section:hover .small-item-carousel .owl-next{
     line-height: 40px;
     text-align: center;
 }
+.db-icon-alt{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 7px;
+    left: 10px;
+    font-size: 20px;
+    line-height: 12px;
+    text-align: center;
+}
+.relative{
+    position: relative;
+}
 .db-title{
     display: block;
     font-size: 12px;
